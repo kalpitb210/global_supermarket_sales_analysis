@@ -40,7 +40,8 @@ This dataset provides a rich and detailed view of sales transactions, allowing f
 ## Guide
 The ```Sales Analysis``` dashboard shows overall sales, profit, profit percentage, and quantity. It also breaks down sales by sub-category and country. There is a section on time to ship by order priority, product name, sales, profit, and profit percentage. Finally, there is a chart that shows the profit and quantity by sub-category.
 
-![image](https://github.com/kalpitb210/global_supermarket_sales_analysis/assets/116106587/a2cad14d-8539-4a4b-aa86-cdc737f55bf8)
+![image](https://github.com/kalpitb210/global_supermarket_sales_analysis/assets/116106587/6aa87d9e-b131-4596-bc78-0a425ecd884c)
+
 
 
 The ```Details``` dashboard displays sales by region and profit and sales by market. It breaks down sales into a donut chart for regions. Profit and sales by market are displayed in a bar chart. And overall data into the table.
